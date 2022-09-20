@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Interface
+comment0.text=\r\n\ An\ interface\ class\ that\ display\ all\ the\ simulator\ information\r\n\ \r\n\ @author\ Weiming\ Quan\ \r\n\ @version\ 1.0\ -\ 4/20\r\n
+comment1.params=
+comment1.target=Interface()
+comment2.params=width
+comment2.target=Interface(int)
+comment2.text=\r\n\ Set\ up\ the\ basic\ interface,\ the\ color,\ font,\ basic\ data,\ and\ etc.\r\n\ \r\n
+comment3.params=
+comment3.target=void\ resetStaticValues()
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\r\n\ Continuously\ update\ the\ clock,\ as\ well\ as\ the\ text\ in\ the\ interface\r\n
+comment5.params=text
+comment5.target=void\ updateText(java.lang.String)
+comment5.text=\r\n\ Update\ the\ data\ bar\ into\ different\ numbers\ about\ the\ simulator\r\n\ \r\n
+comment6.params=
+comment6.target=void\ clock()
+comment6.text=\r\n\ Create\ a\ miliarty\ clock\ for\ the\ simulation,\ \r\n\ every\ 5\ ticks\ in\ game\ is\ a\ minute\ in\ game\r\n\ \r\n
+comment7.params=
+comment7.target=int\ actNum()
+numComments=8

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=volume
+comment0.text=\r\n\ Volume\ button\ of\ the\ game.\ In\ the\ start\ menu,\ click\ on\ the\ +\ or\ -\ to\ change\ volume\r\n\ \r\n\ @author\ Kelvin\ Ying\r\n\ @version\ 2\r\n
+comment1.params=type\ increase
+comment1.target=volume(java.lang.String,\ boolean)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ click()
+comment3.text=\r\n\ if\ clicked\ increase\ or\ decrease\ the\ volume\r\n\ \r\n
+numComments=4

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Buildingnodes
+comment0.text=\r\n\ Building\ nodes\ of\ the\ game.\ This\ is\ where\ towers\ are\ build\ and\ marked\r\n\ \r\n\ @author\ Kelvin\ Ying\r\n\ @version\ 2\r\n
+comment1.params=
+comment1.target=Buildingnodes()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ building()
+comment3.text=\r\n\ click\ on\ will\ remove\ the\ building\ menus\ in\ the\ world\ and\ reset\ the\ building\ nodes\ \r\n\ \r\n
+comment4.params=
+comment4.target=void\ hide()
+comment4.text=\r\n\ turn\ invisable\ if\ build\ on\r\n\ \r\n
+comment5.params=
+comment5.target=void\ appear()
+numComments=6

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=BuildingMenu
+comment0.text=\r\n\ Building\ menu\ of\ the\ game.\ When\ the\ Building\ nodes\ is\ clicked\ on,\ spawns\r\n\ the\ menu.\ Clicking\ on\ certain\ ones\ will\ build\ a\ certain\ tower\ in\ the\ position\r\n\ \r\n\ @author\ Kelvin\ Ying\r\n\ @version\ 2\r\n
+comment1.params=type
+comment1.target=BuildingMenu(java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ Place()
+comment3.text=\r\nIf\ clicked\ will\ place\ the\ different\ towers\r\n\ \r\n
+numComments=4

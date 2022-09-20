@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=PathNodes
+comment0.text=\r\n\ VMain\ pathing\ method\ of\ the\ enemies\ to\ move\ around\ the\ map\r\n\ @author\ Kelvin\ Ying\r\n\ @version\ 2\r\n
+comment1.params=
+comment1.target=PathNodes()
+comment2.params=
+comment2.target=void\ act()
+numComments=3

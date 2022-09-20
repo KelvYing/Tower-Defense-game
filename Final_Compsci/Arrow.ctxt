@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Arrow
+comment0.text=\r\nMain\ projectile\ for\ the\ Archer\ tower.\ Does\ 1\ damage\r\n\ @author\ Andrew\ Wang\r\n\ @version\ 2\r\n
+comment1.params=
+comment1.target=Arrow()
+comment2.params=angle
+comment2.target=Arrow(double)
+comment3.params=w
+comment3.target=void\ addedToWorld(greenfoot.World)
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\r\n\ Act\ -\ do\ whatever\ the\ Projectile\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=5

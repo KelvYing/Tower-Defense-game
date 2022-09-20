@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Towers
+comment0.text=\r\nTowers\ superclass\ that\ is\ build\ to\ kill\ the\ enemies\r\n\ @author\ Andrew\ Wang\r\n\ @version\ 2\r\n
+comment1.params=w
+comment1.target=void\ addedToWorld(greenfoot.World)
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Tower\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ shoot()
+comment4.params=originX\ destinationX\ originY\ destinationY
+comment4.target=float\ getAngle(int,\ int,\ int,\ int)
+comment5.params=
+comment5.target=void\ sell()
+comment6.params=
+comment6.target=Towers()
+comment7.params=
+comment7.target=int\ totalMoney()
+numComments=8

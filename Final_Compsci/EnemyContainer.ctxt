@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=EnemyContainer
+comment0.text=\r\nThis\ is\ used\ for\ the\ towers\ to\ get\ the\ first\ enemy\ in\ the\ world\ and\ target\ it\r\n\r\n\ \r\n\ @author\ Andrew\ Wang\ \r\n\ @version\ 2\r\n
+comment1.params=e
+comment1.target=void\ add(Enemy)
+comment2.params=e
+comment2.target=void\ remove(Enemy)
+comment3.params=x\ y\ range
+comment3.target=Enemy\ getFurthestEnemyWithinRange(int,\ int,\ int)
+comment4.params=x\ y\ range
+comment4.target=Enemy\ getEnemyWithinRange(int,\ int,\ int)
+comment5.params=x1\ x2\ y1\ y2
+comment5.target=double\ distanceSquared(int,\ int,\ int,\ int)
+numComments=6

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=End
+comment0.text=\r\n\ end\ point\ of\ the\ map.\ If\ an\ enemy\ touches\ it,\ you\ will\ lose\ lives\r\n\ \r\n\ @author\ Kelvin\ Ying\r\n\ @version\ 2\r\n
+comment1.params=
+comment1.target=End()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ End\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ Enemythrough()
+comment3.text=\r\n\ if\ enemy\ touches,\ remove\ life\ from\ world\r\n\ \r\n
+numComments=4
